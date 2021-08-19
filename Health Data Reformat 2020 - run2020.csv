@@ -1,0 +1,376 @@
+weekDay,date,Activity Type,dateTime,Favorite,Title,Distance,Calories,Time,Avg HR,Max HR,Aerobic TE,Avg Run Cadence,Max Run Cadence,Avg Pace,Best Pace,Elev Gain,Elev Loss,Avg Stride Length,Avg Vertical Ratio,Avg Vertical Oscillation,Training Stress Score®,Grit,Flow,Climb Time,Bottom Time,Min Temp,Surface Interval,Decompression,Best Lap Time,Number of Laps,Max Temp,Run Type,Distance Type,Weather,Location,Shoes
+Wednesday,1/1/2020,,1/1/2020 8:57,,,3.12,,0:21:13,,,,,,6:48,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"47, clear","Ocean Springs, MS",Brooks Ghost 11
+Thursday,1/2/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"47, clear",,
+Friday,1/3/2020,,1/3/2020 16:22,,,6,,0:44:44,,,,,,7:27,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"60, clear",Campus,Brooks Ghost 11
+Saturday,1/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"50, rain",,
+Sunday,1/5/2020,,1/5/2020 10:29,,,10,,1:16:42,,,,,,7:40,,,,,,,,,,,,,,,,,,Distance,Long Distance,"42, clear","College Station, Campus",Nike Epic React 2
+Monday,1/6/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"60, clear",,
+Tuesday,1/7/2020,,1/7/2020 17:50,,,3,,0:27:45,,,,,,8:43,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"50, sunny",Barnett Shoals,Nike Epic React 2
+Wednesday,1/8/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,1/9/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Friday,1/10/2020,,1/10/2020 17:34,,,2.56,,0:20:06,,,,,,7:50,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"75, sunny","Orlando, FL",Nike Epic React 2
+Saturday,1/11/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,1/12/2020,,1/12/2020 5:22,,,26.2,,4:07:34,,,,,,9:17,,,,,,,,,,,,,,,,,,Race,Disney Marathon,"70, clear, humid","Orlando, FL",Nike Epic React 2
+Monday,1/13/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"65, rain",,
+Tuesday,1/14/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"65, rain",,
+Wednesday,1/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"66, some rain",,
+Thursday,1/16/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,"60, rain",,
+Friday,1/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,1/18/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,1/19/2020,,1/19/2020 8:28,,,3.32,,0:25:30,,,,,,7:40,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"44,partly cloudy",Barnett Shoals,Brooks Ghost 11
+Monday,1/20/2020,,1/20/2020 9:04,,,3.12,,0:21:02,,,,,,6:44,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"31, sunny",Barnett Shoals,Brooks Ghost 11
+Tuesday,1/21/2020,,1/21/2020 18:03,,,3.52,,0:27:15,,,,,,7:44,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"39,clear",Barnett Shoals,Brooks Ghost 11
+Wednesday,1/22/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,1/23/2020,,1/23/2020 17:15,,,6,,0:44:17,,,,,,7:21,,,,,,,,,,,,,,,,,,Tempo,Mid Distance,"47,cloudy",Campus,Brooks Ghost 11
+Friday,1/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,1/25/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,1/26/2020,,1/26/2020 11:14,,,10.39,,1:20:50,,,,,,7:47,,,,,,,,,,,,,,,,,,Distance,Long Distance,"48,sunny","College Station, Campus",Brooks Ghost 11
+Monday,1/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,1/28/2020,,1/28/2020 17:28,,,3.62,,0:27:49,,,,,,7:36,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"57,sunny",Campus,Brooks Ghost 11
+Wednesday,1/29/2020,,1/29/2020 18:13,,,3.13,,0:20:18,,,,,,6:29,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"47,cloudy",Barnett Shoals,Nike Epic React 2
+Thursday,1/30/2020,,1/30/2020 16:43,,,6.02,,0:44:20,,,,,,7:22,,,,,,,,,,,,,,,,,,Tempo,Mid Distance,"56,partly cloudy",Campus,Brooks Ghost 11
+Friday,1/31/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,2/1/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,2/2/2020,,2/2/2020 8:43,,,12,,1:35:09,,,,,,7:56,,,,,,,,,,,,,,,,,,Distance,Long Distance,"41,sunny","College Station, Campus",Nike Epic React 2
+Monday,2/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,2/4/2020,,2/4/2020 18:06,,,3.51,,0:25:00,,,,,,7:07,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"65,cloudy",Barnett Shoals,Brooks Ghost 11
+Wednesday,2/5/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thursday,2/6/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,2/7/2020,,2/7/2020 17:10,,,6.01,,0:47:33,,,,,,7:55,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"40,partly cloudy",Campus,Brooks Ghost 11
+Saturday,2/8/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,2/9/2020,,2/9/2020 8:50,,,10.4,,1:19:57,,,,,,7:42,,,,,,,,,,,,,,,,,,Distance,Long Distance,"31,cloudy","College Station, Campus",Brooks Ghost 11
+Monday,2/10/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,2/11/2020,,2/11/2020 17:22,,,6,,0:46:50,,,,,,7:48,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"70, cloudy",Campus,Brooks Ghost 11
+Wednesday,2/12/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,2/13/2020,,2/13/2020 17:19,,,5.26,,0:42:34,,,,,,8:06,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"59, partly cloudy",Campus,Brooks Ghost 11
+Friday,2/14/2020,,2/14/2020 16:31,,,3.13,,20:19,,,,,,6:30,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"57, sunny",Barnett Shoals,Nike Epic React 2
+Saturday,2/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,2/16/2020,,2/16/2020 13:46,,,10.21,,1:22:43,,,,,,8:06,,,,,,,,,,,,,,,,,,Distance,Long Distance,"43, cloudy","Snapfinger, Old Lexington",Brooks Ghost 11
+Monday,2/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,2/18/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Wednesday,2/19/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,2/20/2020,,2/20/2020 17:31,,,3.01,,22:18,,,,,,7:25,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"38,raining",Barnett Shoals,Brooks Ghost 11
+Friday,2/21/2020,,2/21/2020 5:02,,,4.84,,35:26:00,,,,,,7:19,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"47,sunny","Snapfinger, Barnett Shoals",Brooks Ghost 11
+Saturday,2/22/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,2/23/2020,,2/23/2020 9:26,,,12,,1:34:19,,,,,,7:52,,,,,,,,,,,,,,,,,,Distance,Long Distance,"41, partly cloudy","Snapfinger, Ashton Place, Old Lexington",Nike Epic React 2
+Monday,2/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,2/25/2020,,2/25/2020 17:22,,,7,,54:08:00,,,,,,7:43,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"66, partly cloudy",Campus,Brooks Ghost 11
+Wednesday,2/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,2/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Friday,2/28/2020,,2/28/2020 17:16,,,6.02,,44:52:00,,,,,,7:27,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,partly cloudy,Campus,Nike Epic React 2
+Saturday,2/29/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,3/1/2020,,3/1/2020 9:25,,,14.01,,1:45:28,,,,,,7:31,,,,,,,,,,,,,,,,,,Distance,Long Distance,,"Snapfinger, Old Lexington Neighborhood, Old Lexington, Whit Davis",Nike Epic React 2
+Monday,3/2/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,3/3/2020,,3/3/2020 17:26,,,5.58,,43:10:00,,,,,,7:44,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"65,cloudy",Campus,Brooks Ghost 11
+Wednesday,3/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,3/5/2020,,3/5/2020 18:13,,,3.13,,20:46,,,,,,6:38,,,,,,,,,,,,,,,,,,Tempo,Short Distance,,Barnett Shoals,Nike Epic React 2
+Friday,3/6/2020,,3/6/2020 17:00,,,6.01,,45:31:00,,,,,,7:35,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"54,sunny",Campus,Brooks Ghost 11
+Saturday,3/7/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,3/8/2020,,3/8/2020 8:28,,,16.01,,2:06:20,,,,,,7:54,,,,,,,,,,,,,,,,,,Distance,Long Distance,"33,sunny","Barnett Shoals, College Station, Campus",Nike Epic React 2
+Monday,3/9/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,3/10/2020,,3/10/2020 17:48,,,5,,37:59:00,,,,,,7:35,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"65, cloudy","Snapfinger, Barnett Shoals",Nike Epic React 2
+Wednesday,3/11/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thursday,3/12/2020,,3/12/2020 18:35,,,2.91,,25:33:00,,,,,,8:46,,,,,,,,,,,,,,,,,,Recovery,Short Distance,,ARC Terrapin Run,Brooks Ghost 11
+Friday,3/13/2020,,3/13/2020 18:11,,,4.88,,39.05,,,,,,8:00,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,,"Snapfinger, Barnett Shoals",Nike Epic React 2
+Saturday,3/14/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,3/15/2020,,3/15/2020 7:38,,,10,,1:21:21,,,,,,8:08,,,,,,,,,,,,,,,,,,Distance,Long Distance,,"Snapfinger, Ashton Place, Old Lexington",Nike Epic React 2
+Monday,3/16/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,3/17/2020,,3/17/2020 7:10,,,5,,38:41:00,,,,,,7:43,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,,"Snapfinger, Barnett Shoals",Nike Epic React 2
+Wednesday,3/18/2020,,3/18/2020 7:27,,,2.61,,0:22:21,,,,,,,,,,,,,,,,,,,,,,,,Track,Short Distance,"51,cloudy",Track,Brooks Ghost 11
+Thursday,3/19/2020,,3/19/2020 6:41,,,8.01,,1:06:14,,,,,,8:16,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,foggy,"Barnett Shoals, Ashton Place, Old Lexington",Brooks Ghost 11
+Friday,3/20/2020,,3/20/2020 6:30,,,3.72,,0:34:37,,,,,,,,,,,,,,,,,,,,,,,,Track,Short Distance,clear,Track,Brooks Ghost 11
+Saturday,3/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,3/22/2020,,3/22/2020 6:59,,,12.01,,1:32:53,,,,,,7:44,,,,,,,,,,,,,,,,,,Distance,Long Distance,clear,"Snapfinger, Ashton Place, Old Lexington, Whit Davis",Nike Epic React 2
+Monday,3/23/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,3/24/2020,,3/24/2020 6:40,,,3.79,,0:35:24,,,,,,,,,,,,,,,,,,,,,,,,Track,Short Distance,"55, clear",Track,Brooks Ghost 11
+Wednesday,3/25/2020,,3/25/2020 6:24,,,8.08,,1:07:23,,,,,,8:19,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,foggy,"Whitehall Village, Barnett Shoals, Ashton Place, Old Lexington",Brooks Ghost 11
+Thursday,3/26/2020,,3/26/2020 6:39,,,3.76,,0:36:50,,,,,,,,,,,,,,,,,,,,,,,,Track,Short Distance,clear,Track,Brooks Ghost 11
+Friday,3/27/2020,,3/27/2020 6:32,,,5.01,,0:38:51,,,,,,7:45,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,clear,"Barnett Shoals, Old Lexington",Brooks Ghost 11
+Saturday,3/28/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,3/29/2020,,3/29/2020 6:30,,,13.1,,1:46:21,,,,,,8:06,,,,,,,,,,,,,,,,,,Distance,Long Distance,"67, clear, 84% humidity","Barnett Shoals, Ashton Place, Old Lexington, Whit Davis",Brooks Ghost 11
+Monday,3/30/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,3/31/2020,,3/31/2020 6:31,,,6,,45:50:00,,,,,,7:37,,,,,,,,,,,,,,,,,,Steady,Mid Distance,clear,"Barnett Shoals, Ashton Place, Old Lexington",Brooks Ghost 11
+Tuesday,3/31/2020,,3/31/2020 15:58,,,1,,0:06:04,,,,,,6:04,,,,,,,,,,,,,,,,,,Tempo,Short Distance,clear,Whitehall Village,Nike Zoom Fly 3
+Wednesday,4/1/2020,,4/1/2020 7:03,,,4.3,,0:29:23,,,,,,6:50,,,,,,,,,,,,,,,,,,Tempo,Short Distance,"43,clear","Whitehall Village, Barnett Shoals",Nike Zoom Fly 3
+Thursday,4/2/2020,,4/2/2020 6:49,,,5.01,,0:37:44,,,,,,7:32,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,"38, clear","Snapfinger, Barnett Shoals",Nike Zoom Fly 3
+Friday,4/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,4/4/2020,,4/4/2020 8:48,,,3.29,,0:23:50,,,,,,7:14,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"58, cloudy",Barnett Shoals,Nike Zoom Fly 3
+Sunday,4/5/2020,,4/5/2020 6:39,,,12.44,,1:32:37,,,,,,7:27,,,,,,,,,,,,,,,,,,Distance,Long Distance,"55, partly cloudy","College Station, Campus",Nike Zoom Fly 3
+Monday,4/6/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Tuesday,4/7/2020,,4/7/2020 6:43,,,4.24,,0:32:08,,,,,,7:35,,,,,,,,,,,,,,,,,,Track,Short Distance,"62, partly cloudy",Track,Nike Zoom Fly 3
+Wednesday,4/8/2020,,4/8/2020 6:37,,,6.01,,0:47:18,,,,,,7:52,,,,,,,,,,,,,,,,,,Recovery,Mid Distance,cloudy,"Barnett Shoals, Ashton Place, Old Lexington",Nike Zoom Fly 3
+Thursday,4/9/2020,,4/9/2020 7:22,,,5.01,,0:34:00,,,,,,6:48,,,,,,,,,,,,,,,,,,Steady,Mid Distance,"63, cloudy, 84% humidity","Snapfinger, Barnett Shoals",Nike Zoom Fly 3
+Thursday,4/9/2020,,4/9/2020 14:52,,,1.04,,0:07:12,,,,,,6:55,,,,,,,,,,,,,,,,,,Steady,Short Distance,"81, sunny",Whitehall Village,Nike Pegasus 36
+Friday,4/10/2020,,4/10/2020 6:18,,,4.07,,0:29:37,,,,,,7:22,,,,,,,,,,,,,,,,,,Steady,Short Distance,"57, partly cloudy, windy","Whitehall Village, Barnett Shoals",Nike Pegasus 36
+Saturday,4/11/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,4/12/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Monday,4/13/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,4/14/2020,,4/14/2020 6:02,,,3.78,,0:26:41,,,,,,7:03,,,162,175,,,,,,,,,,,,,,Steady,Short Distance,"50, clear","Barnett Shoals, Whitehall Village",Nike Pegasus 36
+Wednesday,4/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,4/16/2020,,,,,4,445,0:29:49,162,175,3.7,156,174,7:27,6:28,177,147,1.38,0,0,0,0,0,29:49:00,0:00,0,0:00,No,00:01.8,5,0,Steady,Short Distance,"37, clear","Barnett Shoals, Whitehall Village",Nike Pegasus 36
+Friday,4/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,4/18/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,4/19/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Monday,4/20/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,4/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Wednesday,4/22/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Thursday,4/23/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Friday,4/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Saturday,4/25/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,4/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monday,4/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,4/28/2020,Running,4/28/2020 6:57,FALSE,Athens Running,1.19,134,0:08:31,166,181,2.5,152,167,7:09,6:10,139,75,1.48,0,0,0,0,0,08:31.3,0:00,0,0:00,No,01:25.6,2,0,Recovery,Short Distance,,Whitehall Village,Brooks Ghost 11
+Tuesday,4/28/2020,Running,4/28/2020 18:30,FALSE,Athens Running,1.2,136,0:08:25,169,186,2.6,152,224,6:59,1:40,134,73,1.52,0,0,0,0,0,08:25.2,0:00,0,0:00,No,01:27.6,2,0,Recovery,Short Distance,,Whitehall Village,Brooks Ghost 11
+Wednesday,4/29/2020,Running,4/29/2020 6:38,FALSE,Athens Running,3.11,350,0:20:29,178,192,3.9,154,167,6:35,5:56,114,21,1.58,0,0,0,0,0,20:29,0:00,0,0:00,No,00:46.2,4,0,Tempo,Short Distance,,Barnett Shoals,Brooks Ghost 11
+Thursday,4/30/2020,Running,4/30/2020 6:41,FALSE,Athens Running,5.01,641,0:36:19,182,194,5,151,172,7:15,6:14,347,255,1.47,0,0,0,0,0,36:19:00,0:00,0,0:00,No,00:02.2,6,0,Steady,Mid Distance,,"Snapfinger, Barnett Shoals",Brooks Ghost 11
+Friday,5/1/2020,Running,5/1/2020 6:29,FALSE,Athens Running,3.7,426,0:27:43,163,181,3.6,151,181,7:29,5:40,167,99,1.43,0,0,0,0,0,27:43:00,0:00,0,0:00,No,05:06.2,4,0,Recovery,Short Distance,"48, clear","Whitehall Village, Barnett Shoals",Nike Zoom Fly 3
+Saturday,5/2/2020,Running,5/2/2020 10:52,FALSE,Athens Running,1.42,146,0:09:48,160,171,2.3,153,201,6:54,3:57,49,45,1.52,0,0,0,0,0,09:48.3,0:00,0,0:00,No,02:52.3,2,0,Recovery,Short Distance,"70, sunny",IM Fields,Barefoot
+Sunday,5/3/2020,Running,5/3/2020 7:03,FALSE,Athens Running,8.01,962,1:01:12,169,181,4.6,148,158,7:39,6:51,506,463,1.42,0,0,0,0,0,1:01:12,0:00,0,0:00,No,00:02.9,9,0,Distance,Long Distance,"54, sunny","Barnett Shoals, Ashton Place, Old Lexington",Brooks Ghost 11
+Monday,5/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest/Cross Train,,,,
+Tuesday,5/5/2020,Running,5/5/2020 6:47,FALSE,Athens Running,3.92,485,0:29:51,173,191,3.9,145,178,7:36,5:02,88,90,1.42,0,0,0,0,0,29:51:00,0:00,0,0:00,No,01:15.1,13,0,Track,Short Distance,"64,sunny",Track,Nike Pegasus 36
+Wednesday,5/6/2020,Running,5/6/2020 6:22,FALSE,Athens Running,5,593,0:36:41,171,186,4,153,170,7:20,6:05,313,290,1.43,0,0,0,0,0,36:41:00,0:00,0,0:00,No,00:00.5,6,0,Recovery,Mid Distance,"54, clear","Snapfinger, Barnett Shoals",Brooks Ghost 11
+Thursday,5/7/2020,Running,5/7/2020 6:45,FALSE,Athens Running,3.67,396,0:25:57,165,183,3.3,155,184,7:04,4:52,89,102,1.44,0,0,0,0,0,25:57:00,0:00,0,0:00,No,00:01.1,13,0,Track,Short Distance,,Track,Nike Pegasus 36
+Friday,5/8/2020,Running,5/8/2020 6:32,FALSE,Athens Running,3.11,355,0:22:21,167,180,3.3,156,169,7:11,6:06,165,75,1.44,0,0,0,0,0,22:21,0:00,0,0:00,No,00:49.8,4,0,Recovery,Short Distance,,Barnett Shoals,Brooks Ghost 11
+Saturday,5/9/2020,Running,5/9/2020 7:08,FALSE,Athens Running,10.01,"1,090",1:15:52,160,177,4,153,172,7:35,5:53,610,589,1.39,0,0,0,0,0,1:15:52,0:00,0,0:00,No,00:02.0,11,0,Distance,Long Distance,,"Snapfinger, Ashton Place, Old Lexington",Nike Zoom Fly 3
+Sunday,5/10/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,
+Monday,5/11/2020,Running,5/11/2020 6:24,FALSE,Athens Running,5,554,0:35:23,164,181,3.6,156,180,7:04,5:58,239,226,1.46,0,0,0,0,0,35:23:00,0:00,0,0:00,No,00:00.9,6,0,Steady,Mid DIstance,"52,clear","Snapfinger, Barnett Shoals",Brooks Ghost 11
+Tuesday,5/12/2020,Running,5/12/2020 6:34,FALSE,Athens Running,4.2,460,0:30:13,163,184,3.4,157,194,7:12,4:21,80,78,1.4,0,0,0,0,0,30:13:00,0:00,0,0:00,No,00:01.1,21,0,Track,Short Distance,"43, clear",Track,Nike Pegasus 36
+Wednesday,5/13/2020,Running,5/13/2020 6:23,FALSE,Athens Running,5.01,594,0:36:31,167,178,3.8,155,174,7:18,6:22,310,279,1.42,0,0,0,0,0,36:31:00,0:00,0,0:00,No,00:00.8,6,0,Recovery,Mid DIstance,"54, cloudy","Snapfinger, Barnett Shoals",Brooks Ghost 11
+Thursday,5/14/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Friday,5/15/2020,Running,5/15/2020 6:45,FALSE,Athens Running,4.4,519,0:32:21,169,186,3.7,156,192,7:21,4:33,142,145,1.38,0,0,0,0,0,32:21:00,0:00,0,0:00,No,00:34.3,20,0,Track,Short Distance,"57,clear",Track,Brooks Ghost 11
+Saturday,5/16/2020,Running,5/16/2020 9:42,FALSE,Athens Running,2.01,202,0:13:05,161,182,2.6,162,199,6:31,4:21,152,131,1.52,0,0,0,0,0,13:05,0:00,0,0:00,No,00:02.3,3,0,Recovery,Short Distance,"75,sunny",IM Fields,Barefoot
+Sunday,5/17/2020,Running,5/17/2020 6:56,FALSE,Athens Running,12,"1,457",1:29:35,168,177,4.8,155,184,7:28,6:00,655,614,1.39,0,0,0,0,0,1:29:35,0:00,0,0:00,No,00:01.1,13,0,Distance,Long Distance,"61,sunny","College Station, Campus",Nike Zoom Fly 3
+Monday,5/18/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,5/19/2020,Running,5/19/2020 7:05,FALSE,Athens Running,4.01,471,0:27:40,172,184,3.6,157,169,6:54,5:51,255,227,1.48,0,0,0,0,0,27:40:00,0:00,0,0:00,No,00:01.9,5,0,Steady,Short Distance,"66,raining","Snapfinger, Barnett Shoals",Brooks Ghost 11
+Tuesday,5/19/2020,Running,5/19/2020 16:27,FALSE,Athens Running,1.53,158,0:10:45,153,177,2.3,151,170,7:02,6:09,163,171,1.51,0,0,0,0,0,10:45,0:00,0,0:00,No,03:49.4,2,0,Steady,Short Distance,"75,cloudy",Whitehall Village,Nike Pegasus 36
+Wednesday,5/20/2020,Running,5/20/2020 14:05,FALSE,Athens Running,3.26,366,0:21:45,170,182,3.2,161,174,6:40,5:40,115,33,1.5,0,0,0,0,0,21:45,0:00,0,0:00,No,01:48.1,4,0,Steady,Short Distance,"55,cloudy",Barnett Shoals,Nike Pegasus 36
+Thursday,5/21/2020,Running,5/21/2020 6:45,FALSE,Athens Running,3.01,340,0:20:59,165,185,3.1,161,192,6:59,4:55,58,66,1.41,0,0,0,0,0,20:59,0:00,0,0:00,No,00:37.9,16,0,Track,Short Distance,"55,cloudy",Track,Nike Pegasus 36
+Friday,5/22/2020,Running,5/22/2020 6:33,FALSE,Athens Running,6.02,767,0:43:18,174,185,4.3,159,174,7:12,6:26,389,306,1.41,0,0,0,0,0,43:18:00,0:00,0,0:00,No,00:07.6,7,0,Recovery,Mid Distance,,,Nike Pegasus 36
+Saturday,5/23/2020,Running,5/23/2020 9:32,FALSE,Athens Running,2.14,226,0:13:55,163,177,2.7,162,189,6:30,4:51,--,2,1.52,0,0,0,0,0,13:55,0:00,0,0:00,No,01:10.6,3,0,Steady,Short Distance,"77,sunny",IM Fields,Barefoot
+Sunday,5/24/2020,Running,5/24/2020 7:06,FALSE,Athens Running,12.01,"1,512",1:30:00,171,181,5,152,184,7:30,4:54,684,643,1.39,0,0,0,0,0,1:30:00,0:00,0,0:00,No,00:01.5,13,0,Distance,Long Distance,"68,sunny","College Station, Campus",Nike Zoom Fly 3
+Monday,5/25/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,5/26/2020,Running,5/26/2020 6:59,FALSE,Athens Running,5.05,625,0:36:36,169,182,3.8,157,189,7:15,3:44,292,217,1.42,0,0,0,0,0,36:36:00,0:00,0,0:00,No,00:14.6,6,0,Recovery,Mid Distance,"70,cloudy","Barnett Shoals, Ashton Place, Old Lexington",Nike Pegasus 36
+Wednesday,5/27/2020,Running,5/27/2020 6:42,FALSE,Athens Running,4.66,543,0:33:23,166,183,3.4,158,186,7:10,4:15,82,89,1.4,0,0,0,0,0,33:23:00,0:00,0,0:00,No,00:00.6,17,0,Track,Short Distance,"70,cloudy,misty rain",Track,Nike Pegasus 36
+Thursday,5/28/2020,Running,5/28/2020 6:53,FALSE,Athens Running,6.27,787,0:46:20,167,178,4,155,184,7:24,5:25,404,325,1.4,0,0,0,0,0,46:20:00,0:00,0,0:00,No,01:38.3,7,0,Recovery,Mid Distance,"70,cloudy,humid","Snapfinger, Ashton Place, Barnett Shoals",Nike Pegasus 36
+Friday,5/29/2020,Running,5/29/2020 7:12,FALSE,Athens Running,3.12,354,0:20:29,169,183,3.2,155,170,6:34,5:48,108,18,1.58,0,0,0,0,0,20:29,0:00,0,0:00,No,00:45.9,4,0,Steady,Short Distance,"72,cloudy, between rains",Barnett Shoals,Nike Pegasus 36
+Saturday,5/30/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,5/31/2020,Running,5/31/2020 7:34,FALSE,Athens Running,10.01,"1,287",1:14:19,170,181,4.9,153,166,7:26,6:10,721,678,1.42,0,0,0,0,0,1:14:19,0:00,0,0:00,No,00:01.7,11,0,Distance,Long Distance,"68,sunny","Snapfinger, Ashton Place, Old Lexington",Nike Pegasus 36
+Monday,6/1/2020,Running,6/1/2020 6:46,FALSE,Athens Running,4.01,465,0:26:58,170,180,3.4,157,173,6:44,5:41,192,111,1.52,0,0,0,0,0,26:58:00,0:00,0,0:00,No,00:01.1,5,0,Recovery,Short Distance,"68,clear",Barnett Shoals,Nike Pegasus 36
+Tuesday,6/2/2020,Running,6/2/2020 6:45,FALSE,Athens Running,4.57,540,0:32:43,166,185,3.4,156,184,7:10,5:18,121,134,1.42,0,0,0,0,0,32:43:00,0:00,0,0:00,No,02:09.9,12,0,Track,Short Distance,"63,clear",Track,Nike Pegasus 36
+Wednesday,6/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,6/4/2020,Running,6/4/2020 7:03,FALSE,Athens Running,5.33,649,0:38:54,168,195,3.7,159,192,7:18,4:55,145,153,1.37,0,0,0,0,0,38:54:00,0:00,0,0:00,No,00:04.5,17,0,Track,Mid Distance,"70,clear",Track,Nike Pegasus 36
+Friday,6/5/2020,Running,6/5/2020 6:44,FALSE,Athens Running,7.01,911,0:51:27,174,184,4.5,156,194,7:20,6:18,420,379,1.41,0,0,0,0,0,51:27:00,0:00,0,0:00,No,00:02.7,8,0,Recovery,Mid Distance,"70,clear,foggy,humid","Barnett Shoals, Old Lexington",Brooks Ghost 11
+Saturday,6/6/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,6/7/2020,Running,6/7/2020 6:50,FALSE,Athens Running,13.12,"1,634",1:36:51,169,178,5,153,171,7:23,6:11,665,632,1.42,0,0,0,0,0,1:36:51,0:00,0,0:00,No,00:41.1,14,0,Distance,Long Distance,"70,clear,humid","College Station, Campus, Barnet Shoals",Nike Zoom Fly 3
+Monday,6/8/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,6/9/2020,Running,6/9/2020 6:50,FALSE,Athens Running,5.16,596,0:36:28,166,184,3.4,155,181,7:04,4:59,101,114,1.45,0,0,0,0,0,36:28:00,0:00,0,0:00,No,01:28.8,14,0,Track,Mid Distance,"73,clear,humid,muggy",Track,Nike Pegasus 36
+Tuesday,6/9/2020,Running,6/9/2020 17:11,FALSE,Athens Running,2.01,235,0:13:48,167,179,2.7,154,170,6:52,6:04,221,187,1.52,0,0,0,0,0,13:48,0:00,0,0:00,No,00:02.9,3,0,Recovery,Short Distance,"82,cloudy,about to rain,humid and muggy",Whitehall Village,Nike Pegasus 36
+Wednesday,6/10/2020,Running,6/10/2020 6:56,FALSE,Athens Running,3.27,391,0:22:50,168,181,3.2,159,169,6:59,6:26,131,41,1.45,0,0,0,0,0,22:50,0:00,0,0:00,No,01:49.6,4,0,Recovery,Short Distance,"73,cloudy,humid",Barnett Shoals,Nike Pegasus 36
+Thursday,6/11/2020,Running,6/11/2020 6:59,FALSE,Athens Running,3.28,389,0:24:02,162,182,3,150,190,7:20,4:15,29,24,1.42,0,0,0,0,0,24:02:00,0:00,0,0:00,No,00:02.2,15,0,Track,Short Distance,"72,clear",Track,Nike Pegasus 36
+Friday,6/12/2020,Running,6/12/2020 6:36,FALSE,Athens Running,6.22,779,0:43:40,172,183,4.2,157,167,7:01,6:01,401,380,1.46,0,0,0,0,0,43:40:00,0:00,0,0:00,No,01:23.1,7,0,Steady,Mid Distance,"68,clear","Barnett Shoals, Ashton Place, Old Lexington",Nike Pegasus 36
+Saturday,6/13/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,6/14/2020,Running,6/14/2020 6:52,FALSE,Athens Running,12.3,"1,557",1:30:28,169,177,5,152,178,7:21,4:51,695,649,1.44,0,0,0,0,0,1:30:28,0:00,0,0:00,No,02:04.2,13,0,Distance,Long Distance,"66,clear","College Station, Campus",Nike Zoom Fly 3
+Monday,6/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest/Cross Train,,,,
+Tuesday,6/16/2020,Running,6/16/2020 6:28,FALSE,Athens Running,5.01,603,0:34:28,170,180,3.7,157,174,6:53,4:40,304,320,1.5,0,0,0,0,0,34:28:00,0:00,0,0:00,No,00:02.3,6,0,Steady,Mid Distance,"61,cloudy","Snapfinger, Barnett Shoals",Nike Pegasus 36
+Wednesday,6/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,6/18/2020,Running,6/18/2020 6:44,FALSE,Athens Running,5,556,0:34:54,162,181,3.1,158,196,6:59,4:46,117,112,1.44,0,0,0,0,0,34:54:00,0:00,0,0:00,No,00:03.2,15,0,Track,Mid Distance,"63,partly cloudy",Track,Nike Pegasus 36
+Friday,6/19/2020,Running,6/19/2020 6:27,FALSE,Athens Running,6.23,775,0:43:43,171,183,4.2,154,173,7:01,5:36,424,389,1.49,0,0,0,0,0,43:43:00,0:00,0,0:00,No,01:19.0,7,0,Recovery,Mid Distance,"64,clear","Barnett Shoals, Ashton Place, Old Lexington",Nike Pegasus 36
+Saturday,6/20/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,6/21/2020,Running,6/21/2020 6:37,FALSE,Athens Running,10.01,"1,314",1:15:03,170,181,4.9,151,162,7:30,6:37,627,585,1.43,0,0,0,0,0,1:15:03,0:00,0,0:00,No,00:01.7,11,0,Distance,Long Distance,"66,sunny","Snapfinger, Ashton Place, Old Lexington",Nike Pegasus 36
+Monday,6/22/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,6/23/2020,Running,6/23/2020 6:42,FALSE,Athens Running,6.09,710,0:44:44,164,189,3.5,154,222,7:21,4:56,21,17,1.4,0,0,0,0,0,44:44:00,0:00,0,0:00,No,00:01.3,17,0,Track,Mid Distance,"70,clear",Track,Nike Pegasus 36
+Wednesday,6/24/2020,Running,6/24/2020 5:56,FALSE,Athens Running,5.01,639,0:36:52,168,180,3.7,153,166,7:21,6:28,322,254,1.43,0,0,0,0,0,36:52:00,0:00,0,0:00,No,00:04.2,6,0,Recovery,Mid Distance,"70,clear","Barnett Shoals, Ashton Place, Old Lexingotn",Nike Pegasus 36
+Thursday,6/25/2020,Running,6/25/2020 17:49,FALSE,Athens Running,4.95,716,0:44:49,157,171,3.4,146,160,9:03,7:16,309,309,1.21,0,0,0,0,0,44:49:00,0:00,0,0:00,No,07:59.4,5,0,Recovery,Mid Distance,"84,clear",Campus,Nike Pegasus 36
+Friday,6/26/2020,Running,6/26/2020 7:01,FALSE,Athens Running,1.63,191,0:12:26,155,179,2.3,143,184,7:37,4:29,10,16,1.4,0,0,0,0,0,12:26,0:00,0,0:00,No,01:20.5,8,0,Track,Short Distance,"70,sunny",Track,Nike Pegasus 36
+Saturday,6/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,6/28/2020,Running,6/28/2020 7:06,FALSE,Athens Running,11.01,"1,426",1:23:27,169,180,4.9,152,201,7:35,6:28,687,637,1.39,0,0,0,0,0,1:23:27,0:00,0,0:00,No,00:02.2,12,0,Distance,Long Distance,"72,sunny","College Station, Campus",Nike Zoom Fly 3
+Monday,6/29/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,6/30/2020,Running,6/30/2020 6:47,FALSE,Athens Running,5.6,671,0:40:13,167,188,3.5,154,184,7:11,5:13,46,46,1.44,0,0,0,0,0,40:13:00,0:00,0,0:00,No,00:01.0,15,0,Track,Mid Distance,"72,sunny",Track,Nike Pegasus 36
+Wednesday,7/1/2020,Running,7/1/2020 6:33,FALSE,Athens Running,6.23,838,0:47:34,171,183,4.3,153,167,7:38,6:45,451,357,1.37,0,0,0,0,0,47:34:00,0:00,0,0:00,No,01:39.8,7,0,Recovery,Mid Distance,"72, sunny","Snapfinger, Old Lexington",Nike Zoom Fly 3
+Thursday,7/2/2020,Running,7/2/2020 7:46,FALSE,Athens Running,3.12,385,0:21:33,174,184,3.3,156,166,6:54,6:06,110,17,1.49,0,0,0,0,0,21:33,0:00,0,0:00,No,00:52.9,4,0,Steady,Short Distance,"73,sunny",Barnett Shoals,Nike Pegasus 36
+Friday,7/3/2020,Running,7/3/2020 6:58,FALSE,Athens Running,6.06,691,0:43:43,161,188,3.4,156,192,7:13,4:58,149,150,1.41,0,0,0,0,0,43:43:00,0:00,0,0:00,No,00:01.0,18,0,Track,Mid Distance,"72,sunny",Track,Nike Pegasus 36
+Saturday,7/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,7/5/2020,Running,7/5/2020 7:09,FALSE,Athens Running,10.75,"1,463",1:20:47,174,188,5,149,173,7:31,6:26,672,632,1.43,0,0,0,0,0,1:20:47,0:00,0,0:00,No,05:33.8,11,0,Distance,Long Distance,"72,sunny","College Station, Campus",Nike Zoom Fly 3
+Monday,7/6/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,7/7/2020,Running,7/7/2020 6:33,FALSE,Athens Running,5,652,0:37:03,170,184,3.9,150,164,7:24,6:23,287,255,1.44,0,0,0,0,0,37:03:00,0:00,0,0:00,No,00:01.3,6,0,Recovery,Mid Distance,"73,cloudy","Snapfinger, Barnett Shoals",Nike Pegasus 36
+Wednesday,7/8/2020,Running,7/8/2020 6:29,FALSE,Athens Running,8.12,"1,080",1:00:54,172,182,4.7,150,162,7:30,6:39,502,462,1.43,0,0,0,0,0,1:00:54,0:00,0,0:00,No,00:51.2,9,0,Recovery,Mid Distance,"72, cloudy","Barnett Shoals, Ashton Place, Old Lexinton",Nike Zoom Fly 3
+Thursday,7/9/2020,Running,7/9/2020 6:36,FALSE,Athens Running,5,641,0:36:47,169,182,3.8,150,166,7:21,6:27,231,224,1.46,0,0,0,0,0,36:47:00,0:00,0,0:00,No,00:01.8,6,0,Recovery,Mid Distance,"75, cloudy","Snapfinger, Barnett Shoals",Nike Pegasus 36
+Friday,7/10/2020,Running,7/10/2020 6:29,FALSE,Athens Running,6.05,743,0:42:39,169,184,4.1,150,168,7:03,5:30,411,341,1.52,0,0,0,0,0,42:39:00,0:00,0,0:00,No,00:15.6,7,0,Steady,Mid Distance,"73,cloudy","Barnett Shoals, Ashton Place, Old Lexington",Nike Zoom Fly 3
+Saturday,7/11/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,7/12/2020,Running,7/12/2020 7:03,FALSE,Athens Running,10.6,"1,355",1:19:33,168,179,4.7,148,160,7:30,6:22,648,603,1.44,0,0,0,0,0,1:19:33,0:00,0,0:00,No,04:09.6,11,0,Distance,Long Distance,"66,sunny","College Station, campus",Nike Zoom Fly 3
+Monday,7/13/2020,Running,7/13/2020 17:06,FALSE,Athens Running,3.25,402,0:24:32,159,171,3.1,148,159,7:32,6:56,134,45,1.44,0,0,0,0,0,24:32:00,0:00,0,0:00,No,01:58.7,4,0,Recovery,Short Distance,"93,sunny",Barnett Shoals,New Balance Fuel Cell Propel
+Tuesday,7/14/2020,Running,7/14/2020 17:10,FALSE,Athens Running,4.78,593,0:34:49,166,176,3.6,148,160,7:17,6:22,243,239,1.49,0,0,0,0,0,34:49:00,0:00,0,0:00,No,05:42.2,5,0,Recovery,Short Distance,"95,sunny","Snapfinger, Barnett Shoals",Nike Pegasus 36
+Wednesday,7/15/2020,Running,7/15/2020 17:19,FALSE,Athens Running,5,669,0:38:13,170,182,3.9,149,170,7:38,6:31,270,229,1.42,0,0,0,0,0,38:13:00,0:00,0,0:00,No,00:01.2,6,0,Recovery,Mid Distance,"97,humid","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Thursday,7/16/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,7/17/2020,Running,7/17/2020 17:07,FALSE,Athens Running,4.48,604,0:33:54,172,185,3.8,148,162,7:34,6:50,231,172,1.43,0,0,0,0,0,33:54:00,0:00,0,0:00,No,03:38.5,5,0,Recovery,Short Distance,"93, humid","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Saturday,7/18/2020,Running,7/18/2020 9:38,FALSE,Athens Running,3.11,387,0:21:56,171,183,3.3,152,164,7:03,6:12,113,23,1.51,0,0,0,0,0,21:56,0:00,0,0:00,No,00:51.3,4,0,Steady,Short Distance,"88,sunny",Barnett Shoals,New Balance Fuel Cell Propel
+Sunday,7/19/2020,Running,7/19/2020 7:37,FALSE,Athens Running,10.01,"1,357",1:18:44,169,179,4.8,150,164,7:52,6:43,677,673,1.37,0,0,0,0,0,1:18:44,0:00,0,0:00,No,00:02.3,11,0,Distance,Long Distance,"75,sunny","Barnett Shoals, Ashton Place, Old Lexington",Nike Zoom Fly 3
+Monday,7/20/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,7/21/2020,Running,7/21/2020 6:13,FALSE,Athens Running,6.22,782,0:46:53,163,178,3.8,148,173,7:32,6:17,418,386,1.44,0,0,0,0,0,46:53:00,0:00,0,0:00,No,01:32.3,7,0,Recovery,Mid Distance,"75,sunny","Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Wednesday,7/22/2020,Running,7/22/2020 6:47,FALSE,Athens Running,6.71,848,0:49:39,167,179,4.1,149,169,7:24,6:37,465,407,1.46,0,0,0,0,0,49:39:00,0:00,0,0:00,No,05:04.1,7,0,Steady,Mid Distance,"72,sunny,humid","Snapfinger, Old Lexington",New Balance Fuel Cell Propel
+Thursday,7/23/2020,Running,7/23/2020 6:25,FALSE,Athens Running,6.23,783,0:45:50,166,179,4,152,164,7:21,6:01,814,797,1.44,0,0,0,0,0,45:50:00,0:00,0,0:00,No,01:30.8,7,0,Steady,Mid Distance,,,New Balance Fuel Cell Propel
+Friday,7/24/2020,Running,7/24/2020 6:28,FALSE,Athens Running,6.44,832,0:47:57,169,181,4.2,150,164,7:27,6:23,889,830,1.44,0,0,0,0,0,47:57:00,0:00,0,0:00,No,03:10.4,7,0,Steady,Mid Distance,"71,clear","Snapfinger, Old Lexington",Nike Pegasus 36
+Saturday,7/25/2020,Running,7/25/2020 7:22,FALSE,Athens Running,3.13,384,0:22:33,165,178,3.2,153,167,7:13,6:38,453,354,1.46,0,0,0,0,0,22:33,0:00,0,0:00,No,00:56.8,4,0,Steady,Short Distance,"72,clear",Barnett Shoals,New Balance Fuel Cell Propel
+Sunday,7/26/2020,Running,7/26/2020 6:55,FALSE,Athens Running,12.06,"1,568",1:31:42,169,179,5,148,171,7:36,5:59,"1,526","1,588",1.43,0,0,0,0,0,1:31:42,0:00,0,0:00,No,00:26.0,13,0,Distance,Long Distance,"69,clear","College Station, Campus",Nike Zoom Fly 3
+Monday,7/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,7/28/2020,Running,7/28/2020 6:36,FALSE,Athens Running,5,618,0:36:11,166,183,3.7,148,164,7:14,6:11,663,643,1.5,0,0,0,0,0,36:11:00,0:00,0,0:00,No,00:01.7,6,0,Steady,Mid Distance,"72,clear","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Wednesday,7/29/2020,Running,7/29/2020 6:34,FALSE,Athens Running,6.23,775,0:45:05,168,183,4,149,166,7:15,6:22,400,392,1.49,0,0,0,0,0,45:05:00,0:00,0,0:00,No,01:28.9,7,0,Steady,Mid Distance,"75,clear","Barnett Shoals, Ashton Place, Old Lexington",
+Thursday,7/30/2020,Running,7/30/2020 6:54,FALSE,Athens Running,4.44,514,0:32:17,162,185,3.1,147,184,7:16,4:47,73,65,1.47,0,0,0,0,0,32:17:00,0:00,0,0:00,No,00:08.4,18,0,Track,Short Distance,"75,humid",Track,Nike Pegasus 36
+Friday,7/31/2020,Running,7/31/2020 17:27,FALSE,Athens Running,1.02,110,0:05:51,180,191,2.2,160,174,5:44,5:00,56,51,1.75,0,0,0,0,0,05:50.5,0:00,0,0:00,No,00:01.2,3,0,Race,Short Distance,"95, sunny, humid",Track,Nike Pegasus 36
+Saturday,8/1/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,8/2/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monday,8/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,8/4/2020,Running,8/4/2020 6:28,FALSE,Athens Running,6.24,759,0:44:00,168,182,4,150,190,7:03,5:56,384,360,1.52,0,0,0,0,0,44:00:00,0:00,0,0:00,No,01:30.7,7,0,Steady,Mid Distance,"66,cloudy","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Wednesday,8/5/2020,Running,8/5/2020 6:34,FALSE,Athens Running,6.3,791,0:45:10,171,186,4.2,150,168,7:10,5:52,337,335,1.5,0,0,0,0,0,45:10:00,0:00,0,0:00,No,01:52.8,7,0,Steady,Mid Distance,"72,cloudy","Snapfinger, Old Lexington",Nike Pegasus 36
+Thursday,8/6/2020,Running,8/6/2020 6:38,FALSE,Athens Running,6.23,752,0:43:15,169,185,4.2,151,170,6:57,5:51,405,385,1.53,0,0,0,0,0,43:15:00,0:00,0,0:00,No,01:23.4,7,0,Steady,Mid Distance,"72,cloudy","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,8/7/2020,Running,8/7/2020 6:32,FALSE,Athens Running,6.51,820,0:46:40,171,183,4.3,148,166,7:10,6:29,463,377,1.5,0,0,0,0,0,46:40:00,0:00,0,0:00,No,03:39.6,7,0,Steady,Mid Distance,"72,cloudy","Snapfinger, Old Lexington",Nike Pegasus 36
+Saturday,8/8/2020,Running,8/8/2020 7:52,FALSE,Athens Running,3.12,358,0:20:36,169,184,3.2,151,164,6:37,5:44,111,22,1.61,0,0,0,0,0,20:36,0:00,0,0:00,No,00:48.8,4,0,Tempo,Short Distance,"72,sunny",Barnett Shoals,New Balance Fuel Cell Propel
+Sunday,8/9/2020,Running,8/9/2020 6:59,FALSE,Athens Running,12.02,"1,525",1:32:32,165,176,4.7,149,199,7:42,6:43,728,682,1.4,0,0,0,0,0,1:32:32,0:00,0,0:00,No,00:09.1,13,0,Distance,Long Distance,"72,overcast","College Station, Campus",New Balance Fuel Cell Propel
+Monday,8/10/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,8/11/2020,Running,8/11/2020 6:14,FALSE,Athens Running,6.22,783,0:45:25,169,185,4.2,148,160,7:18,6:15,418,391,1.49,0,0,0,0,0,45:25:00,0:00,0,0:00,No,01:27.7,7,0,Recovery,Mid Distance,"72,cloudy","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Wednesday,8/12/2020,Running,8/12/2020 6:01,FALSE,Athens Running,6.05,673,0:44:34,159,185,3.3,150,184,7:22,4:47,176,168,1.44,0,0,0,0,0,44:34:00,0:00,0,0:00,No,00:24.3,15,0,Track,Mid Distance,"72,clear",Track,Nike Pegasus 36
+Thursday,8/13/2020,Running,8/13/2020 5:59,FALSE,Athens Running,6.22,798,0:45:54,168,183,4.1,149,166,7:23,6:09,402,375,1.46,0,0,0,0,0,45:54:00,0:00,0,0:00,No,01:35.3,7,0,Recovery,Mid Distance,"73,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,8/14/2020,Running,8/14/2020 6:43,FALSE,Athens Running,5.01,614,0:36:00,166,182,3.7,150,161,7:12,6:25,271,260,1.49,0,0,0,0,0,36:00:00,0:00,0,0:00,No,00:01.8,6,0,Steady,Mid Distance,"72,cloudy","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Saturday,8/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,8/16/2020,Running,8/16/2020 6:36,FALSE,Athens Running,10.03,"1,301",1:14:34,171,185,5,146,162,7:26,6:21,624,589,1.48,0,0,0,0,0,1:14:34,0:00,0,0:00,No,00:10.8,11,0,Distance,Long Distance,"72,cloudy","College Station, Campus",Nike Zoom Fly 3
+Monday,8/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,8/18/2020,Running,8/18/2020 6:02,FALSE,Athens Running,6.23,748,0:44:11,166,179,3.9,150,168,7:05,6:13,392,346,1.51,0,0,0,0,0,44:11:00,0:00,0,0:00,No,01:31.3,7,0,Steady,Mid Distance,"70,clear,cool","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Wednesday,8/19/2020,Running,8/19/2020 6:36,FALSE,Athens Running,4.93,562,0:35:17,161,185,3.3,150,192,7:09,4:47,83,90,1.48,0,0,0,0,0,35:17:00,0:00,0,0:00,No,00:04.9,14,0,Track,Mid Distance,"70,sunny",Track,Nike Pegasus 36
+Thursday,8/20/2020,Running,8/20/2020 6:15,FALSE,Athens Running,6.24,786,0:46:03,166,181,4,150,165,7:23,6:03,374,321,1.45,0,0,0,0,0,46:03:00,0:00,0,0:00,No,01:36.4,7,0,Recovery,Mid Distance,"70,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,8/21/2020,Running,8/21/2020 6:19,FALSE,Athens Running,6.23,800,0:46:17,167,180,4,150,162,7:26,6:11,397,328,1.45,0,0,0,0,0,46:17:00,0:00,0,0:00,No,01:28.4,7,0,Recovery,Mid Distance,"72,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Saturday,8/22/2020,Running,8/22/2020 7:11,FALSE,Athens Running,4,487,0:28:56,164,178,3.3,150,164,7:14,6:41,185,101,1.49,0,0,0,0,0,28:56:00,0:00,0,0:00,No,00:01.5,5,0,Steady,Short Distance,"70,clear",Barnett Shoals,Nike Pegasus 36
+Sunday,8/23/2020,Running,8/23/2020 7:12,FALSE,Athens Running,10.7,"1,317",1:20:37,166,178,4.4,150,205,7:32,6:23,723,681,1.42,0,0,0,0,0,1:20:37,0:00,0,0:00,No,05:12.4,11,0,Distance,Long Distance,"72,cloudy","College Station, Campus",Nike Zoom Fly 3
+Monday,8/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,8/25/2020,Running,8/25/2020 6:28,FALSE,Athens Running,3.28,384,0:22:29,166,180,3.2,151,164,6:52,6:02,114,23,1.55,0,0,0,0,0,22:29,0:00,0,0:00,No,01:58.0,4,0,Steady,Short Distance,"73,cloudy",Barnett Shoals,Nike Pegasus 36
+Wednesday,8/26/2020,Running,8/26/2020 6:10,FALSE,Athens Running,4.97,621,0:38:20,164,185,3.4,140,198,7:43,3:50,127,127,1.46,0,0,0,0,0,38:20:00,0:00,0,0:00,No,00:05.1,16,0,Track,Mid Distance,"75,cloudy,humid",Track,Nike Pegasus 36
+Thursday,8/27/2020,Running,8/27/2020 6:21,FALSE,Athens Running,3.16,373,0:21:16,169,183,3.2,152,163,6:44,5:39,108,19,1.57,0,0,0,0,0,21:16,0:00,0,0:00,No,01:03.4,4,0,Steady,Short Distance,"72,cloudy",Barnett Shoals,Nike Pegasus 36
+Friday,8/28/2020,Running,8/28/2020 6:40,FALSE,Athens Running,5,621,0:36:01,167,180,3.7,149,166,7:12,6:07,281,293,1.51,0,0,0,0,0,36:01:00,0:00,0,0:00,No,00:01.5,6,0,Steady,Mid Distance,,"Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Saturday,8/29/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,8/30/2020,Running,8/30/2020 6:43,FALSE,Athens Running,10.62,"1,363",1:20:23,168,180,4.8,146,160,7:34,6:33,686,639,1.45,0,0,0,0,0,1:20:23,0:00,0,0:00,No,04:30.1,11,0,Distance,Long Distance,"75,cloudy,humid","College Station, Campus",Nike Zoom Fly 3
+Monday,8/31/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,9/1/2020,Running,9/1/2020 6:20,FALSE,Athens Running,6.22,785,0:45:49,166,179,3.9,148,162,7:22,5:54,410,345,1.48,0,0,0,0,0,45:49:00,0:00,0,0:00,No,01:20.2,7,0,Steady,Mid Distance,"73,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Wednesday,9/2/2020,Running,9/2/2020 6:50,FALSE,Athens Running,4.54,602,0:34:53,166,182,3.6,147,159,7:41,6:37,298,211,1.42,0,0,0,0,0,34:53:00,0:00,0,0:00,No,04:20.6,5,0,Recovery,Short Distance,"75,clear","Barnett Shoals, Old Lexington",New Balance Fuel Cell Propel
+Thursday,9/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,9/4/2020,Running,9/4/2020 7:15,FALSE,Athens Running,5.01,609,0:35:05,169,188,3.8,150,168,7:00,5:43,293,270,1.53,0,0,0,0,0,35:05:00,0:00,0,0:00,No,00:01.3,6,0,Tempo,Mid Distance,"72,sunny","Snapfinger, Barnett Shoals",Nike Pegasus 36
+Saturday,9/5/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,9/6/2020,Running,9/6/2020 6:44,FALSE,Athens Running,11.01,"1,390",1:21:57,167,177,4.6,146,160,7:27,5:59,717,671,1.48,0,0,0,0,0,1:21:57,0:00,0,0:00,No,00:01.6,12,0,Distance,Long Distance,"64,clear","College Station, Campus",Nike Zoom Fly 3
+Monday,9/7/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,9/8/2020,Running,9/8/2020 6:11,FALSE,Athens Running,3.11,347,0:21:00,162,182,3.1,151,167,6:45,5:59,116,23,1.58,0,0,0,0,0,21:00,0:00,0,0:00,No,00:44.1,4,0,Up Tempo,Short Distance,"64,clear",Barnett Shoals,Nike Pegasus 36
+Wednesday,9/9/2020,Running,9/9/2020 6:25,FALSE,Athens Running,6.22,795,0:46:24,167,182,4,147,178,7:28,5:03,393,331,1.47,0,0,0,0,0,46:24:00,0:00,0,0:00,No,01:17.4,7,0,Recovery,Mid Distance,"70,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Thursday,9/10/2020,Running,9/10/2020 6:19,FALSE,Athens Running,3.11,361,0:22:12,160,179,3,149,161,7:08,6:33,113,23,1.52,0,0,0,0,0,22:12,0:00,0,0:00,No,00:51.7,4,0,Steady,Short Distance,"73,cloudy,humid",Barnett Shoals,New Balance Fuel Cell Propel
+Friday,9/11/2020,Running,9/11/2020 6:48,FALSE,Athens Running,3.2,367,0:22:48,160,185,3.1,147,166,7:07,5:12,133,65,1.54,0,0,0,0,0,22:48,0:00,0,0:00,No,01:07.8,4,0,Steady,Short Distance,"73,clear",Barnett Shoals,Nike Pegasus 36
+Saturday,9/12/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,9/13/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Monday,9/14/2020,Running,9/14/2020 6:59,FALSE,Athens Running,3.12,359,0:20:58,167,189,3.3,150,164,6:43,6:01,119,23,1.6,0,0,0,0,0,20:58,0:00,0,0:00,No,00:47.8,4,0,Tempo,Short Distance,"73,cloudy",Barnett Shoals,Nike Pegasus 36
+Tuesday,9/15/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Wednesday,9/16/2020,Running,9/16/2020 6:33,FALSE,Athens Running,6.22,827,0:44:52,178,189,4.8,147,162,7:13,5:32,395,347,1.52,0,0,0,0,0,44:52:00,0:00,0,0:00,No,01:17.3,7,0,,,,,
+Thursday,9/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,9/18/2020,Running,9/18/2020 7:02,FALSE,Athens Running,5,642,0:35:40,175,188,4.2,148,169,7:08,6:02,264,271,1.52,0,0,0,0,0,35:40:00,0:00,0,0:00,No,00:01.1,6,0,Steady,Mid Distance,,"Snapfinger, Barnett Shoals",Nike Pegasus 36
+Saturday,9/19/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Sunday,9/20/2020,Running,9/20/2020 6:59,FALSE,Athens Running,11.01,"1,259",1:21:43,160,181,4.2,149,170,7:25,5:14,699,664,1.46,0,0,0,0,0,1:21:43,0:00,0,0:00,No,00:01.2,12,0,Distance,Long Distance,,,
+Monday,9/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,9/22/2020,Running,9/22/2020 7:07,FALSE,Athens Running,3.16,365,0:20:58,169,191,3.3,151,164,6:39,6:08,112,23,1.6,0,0,0,0,0,20:58,0:00,0,0:00,No,00:57.2,4,0,Tempo,Short Distance,"48,clear",Barnett Shoals,Nike Pegasus 36
+Wednesday,9/23/2020,Running,9/23/2020 6:48,FALSE,Athens Running,4.01,488,0:28:15,169,186,3.6,147,160,7:03,6:21,207,125,1.55,0,0,0,0,0,28:15:00,0:00,0,0:00,No,00:01.4,5,0,Tempo,Short Distance,"57,cloudy",Barnett Shoals,Nike Pegasus 36
+Thursday,9/24/2020,Running,9/24/2020 6:42,FALSE,Athens Running,6.22,767,0:45:46,165,182,4,146,161,7:21,6:06,404,354,1.5,0,0,0,0,0,45:46:00,0:00,0,0:00,No,01:24.8,7,0,Recovery,7:21,"61,clear","Barnett Shoals,Snapfinger, Old Lexington",New Balance Fuel Cell Propel
+Friday,9/25/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Saturday,9/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cross Train,,,,
+Sunday,9/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monday,9/28/2020,Running,9/28/2020 7:02,FALSE,Athens Running,3.12,361,0:21:29,166,186,3.3,148,170,6:53,6:02,126,37,1.58,0,0,0,0,0,21:29,0:00,0,0:00,No,00:45.0,4,0,Steady,Short Distance,"72,cloudy",Barnett Shoals,Nike Pegasus 36
+Tuesday,9/29/2020,Running,9/29/2020 6:36,FALSE,Athens Running,8.26,"1,015",0:59:41,169,181,4.8,147,169,7:14,6:09,521,431,1.52,0,0,0,0,0,59:41:00,0:00,0,0:00,No,01:46.1,9,0,Steady,Mid Distance,"70,cloudy","Barnett Shoals, Ashton Place, Old Lexington",Nike Zoom Fly 3
+Wednesday,9/30/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Thursday,10/1/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Friday,10/2/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Saturday,10/3/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Sunday,10/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Monday,10/5/2020,Running,10/5/2020 16:34,FALSE,Athens Running,3.01,350,0:20:01,173,187,3.4,149,164,6:39,5:56,111,43,1.62,0,0,0,0,0,20:01,0:00,0,0:00,No,00:01.0,4,0,Tempo,Short Distance,"77, sunny",Barnett Shoals,Nike Pegasus 36
+Tuesday,10/6/2020,Running,10/6/2020 7:10,FALSE,Athens Running,3.12,342,0:21:04,159,185,3.1,151,167,6:45,6:05,163,59,1.58,0,0,0,0,0,21:04,0:00,0,0:00,No,00:48.9,4,0,Tempo,Short Distance,"54,sunny",Barnett Shoals,New Balance Fuel Cell Propel
+Wednesday,10/7/2020,Running,10/7/2020 6:24,FALSE,Athens Running,6.23,744,0:44:01,168,183,4.2,148,164,7:04,5:19,404,353,1.53,0,0,0,0,0,44:01:00,0:00,0,0:00,No,01:19.9,7,0,Steady,Mid Distance,"59,clear","Barnett Shoals, Ashton Place, Old Lexington",Nike Pegasus 36
+Thursday,10/8/2020,Running,10/8/2020 6:57,FALSE,Athens Running,3.3,382,0:22:53,165,182,3.3,148,160,6:56,6:13,144,50,1.55,0,0,0,0,0,22:53,0:00,0,0:00,No,02:12.3,4,0,Steady,Short Distance,"57,clear",Barnett Shoals,Nike Pegasus 36
+Friday,10/9/2020,Running,10/9/2020 6:36,FALSE,Athens Running,4.51,572,0:33:32,169,183,3.8,147,160,7:26,6:31,254,164,1.48,0,0,0,0,0,33:32:00,0:00,0,0:00,No,03:47.2,5,0,Recovery,Short Distance,"64, clear","Barnett Shoals, Old Lexington",Nike Pegasus 36
+Saturday,10/10/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,10/11/2020,Running,10/11/2020 7:12,FALSE,Athens Running,10.51,"1,379",1:20:57,174,186,5,146,164,7:42,5:56,705,658,1.43,0,0,0,0,0,1:20:57,0:00,0,0:00,No,03:57.8,11,0,Distance,Long Distance,"72,clear","College Station, Campus",Nike Zoom Fly 3
+Monday,10/12/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rest,,,,
+Tuesday,10/13/2020,Running,10/13/2020 6:33,FALSE,Athens Running,5.55,673,0:41:12,165,181,4,147,211,7:25,6:21,333,311,1.47,0,0,0,0,0,41:12:00,0:00,0,0:00,No,04:22.6,6,0,Recovery,Mid Distance,"64,clear",Campus,Nike Pegasus 36
+Wednesday,10/14/2020,Running,10/14/2020 5:33,FALSE,Athens Running,3.4,418,0:31:55,140,157,2.5,145,159,9:22,8:04,224,224,1.19,0,0,0,0,0,31:55:00,0:00,0,0:00,No,03:27.3,4,0,Recovery,Short Distance,"57,clear",Campus,Nike Pegasus 36
+Thursday,10/15/2020,Running,10/15/2020 6:29,FALSE,Athens Running,5.01,613,0:36:15,169,184,3.9,148,176,7:14,4:31,247,154,1.5,0,0,0,0,0,36:15:00,0:00,0,0:00,No,00:01.2,6,0,Recovery,Mid Distance,"61,cloudy","Barnett Shoals, Snapfinger, Old Lexington, Barnett Shoals",Nike Pegasus 36
+Friday,10/16/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Saturday,10/17/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,10/18/2020,Running,10/18/2020 9:01,FALSE,Athens Running,7.05,911,1:03:32,153,165,3.5,149,184,9:01,4:27,439,433,1.2,0,0,0,0,0,1:03:32,0:00,0,0:00,No,00:11.9,8,0,Trail Tun,Mid Distance,"52,sunny",Sandy Creek Park,New Balance Fuel Cell Propel
+Sunday,10/18/2020,Running,10/18/2020 11:21,FALSE,Athens Running,1.12,126,0:08:24,152,166,2.1,148,168,7:28,6:47,20,31,1.45,0,0,0,0,0,08:23.6,0:00,0,0:00,No,00:53.2,2,0,Steady,Short Distance,"64,sunny",Sandy Creek Park,New Balance Fuel Cell Propel
+Monday,10/19/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,10/20/2020,Running,10/20/2020 6:32,FALSE,Athens Running,5.64,647,0:42:22,157,177,3.6,148,176,7:31,5:26,315,340,1.45,0,0,0,0,0,42:22:00,0:00,0,0:00,No,04:55.7,6,0,Recovery,Mid Distance,"55,clear",Campus,Nike Pegasus 36
+Wednesday,10/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thursday,10/22/2020,Running,10/22/2020 6:24,FALSE,Athens Running,11.02,"1,389",1:24:38,170,184,5,148,190,7:41,6:10,734,645,1.42,0,0,0,0,0,1:24:38,0:00,0,0:00,No,00:09.6,12,0,Distance,Long Distance,"63,clear","College Station, Campus",New Balance Fuel Cell Propel
+Friday,10/23/2020,Running,10/23/2020 6:38,FALSE,Athens Running,3.38,405,0:26:23,156,167,3.1,149,164,7:49,6:56,143,67,1.38,0,0,0,0,0,26:23:00,0:00,0,0:00,No,03:03.5,4,0,Recovery,Short Distance,"63,cloudy",Barnett Shoals,Nike Pegasus 36
+Saturday,10/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Short Distance,,IM Fields parking deck,Brooks Ghost 11
+Sunday,10/25/2020,Running,10/25/2020 13:29,FALSE,Athens Running,4.66,585,0:35:19,168,180,3.8,147,158,7:34,6:49,271,258,1.44,0,0,0,0,0,35:19:00,0:00,0,0:00,No,05:03.2,5,0,Recovery,Short Distance,"73,cloudy,humid","Snapfinger, Barnett Shoals",Nike React Miler
+Monday,10/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,10/27/2020,Running,10/27/2020 5:48,FALSE,Athens Running,2.55,248,0:17:35,153,182,2.8,151,196,6:53,4:00,10,17,1.52,0,0,0,0,0,17:35,0:00,0,0:00,No,00:02.7,14,0,Track,Short Distance,"66,cloudy",Track,Nike Pegasus 36
+Tuesday,10/27/2020,Running,10/27/2020 6:21,FALSE,Athens Running,2.22,293,0:19:09,158,175,3,147,179,8:37,4:51,202,171,1.27,0,0,0,0,0,19:09,0:00,0,0:00,No,01:43.7,3,0,Recovery,Short Distance,"66,cloudy",Campus,Nike Pegasus 36
+Wednesday,10/28/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thursday,10/29/2020,Running,10/29/2020 12:45,FALSE,Athens Running,3.13,367,0:21:42,172,181,3.4,151,166,6:56,5:45,148,61,1.53,0,0,0,0,0,21:42,0:00,0,0:00,No,00:53.0,4,0,Tempo,Short Distance,"81,humid",Barnett Shoals,Nike Pegasus 36
+Friday,10/30/2020,Running,10/30/2020 6:31,FALSE,Athens Running,7.01,823,0:55:36,157,174,3.6,149,173,7:56,5:59,565,581,1.36,0,0,0,0,0,55:36:00,0:00,0,0:00,No,00:02.8,8,0,Recovery,Mid Distance,"52,clear",Campus,Nike React Miler
+Saturday,10/31/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,11/1/2020,Running,11/1/2020 15:21,FALSE,Athens Running,7.01,856,0:52:20,166,179,4.2,147,172,7:28,5:24,395,327,1.47,0,0,0,0,0,52:20:00,0:00,0,0:00,No,00:01.5,8,0,Recovery,Mid Distance,"70, sunnu","Barnett Shoals, Ashton Place, old Lexington, Barnett Shoals",Nike React Miler
+Monday,11/2/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,11/3/2020,Running,11/3/2020 6:10,FALSE,Athens Running,7.01,871,0:54:12,164,188,4,148,182,7:44,5:40,412,415,1.41,0,0,0,0,0,54:12:00,0:00,0,0:00,No,00:01.6,8,0,Recovery,Mid Distance,"37,clear",Campus,Nike React Miler
+Wednesday,11/4/2020,Running,11/4/2020 17:48,FALSE,Athens Running,3.12,336,0:19:44,173,184,3.3,159,174,6:20,5:28,111,19,1.6,0,0,0,0,0,19:44,0:00,0,0:00,No,00:41.7,4,0,Tempo,Short Distance,"57,sunny",Barnett Shoals,Nike Pegasus 36
+Thursday,11/5/2020,Running,11/5/2020 17:05,FALSE,Athens Running,6.51,784,0:51:24,158,180,3.5,145,178,7:54,6:16,468,374,1.41,0,0,0,0,0,51:24:00,0:00,0,0:00,No,04:01.0,7,0,Recovery,Mid Distance,"66,sunny","Snapfinger, Old Lexington, Barnett Shoals",Nike React Miler
+Friday,11/6/2020,Running,11/6/2020 16:56,FALSE,Athens Running,3.13,348,0:20:08,174,185,3.3,158,176,6:26,5:32,125,18,1.58,0,0,0,0,0,20:08,0:00,0,0:00,No,00:42.7,4,0,Tempo,Short Distance,"73,sunny",Barnett Shoals,Nike Pegasus 36
+Saturday,11/7/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,11/8/2020,Running,11/8/2020 6:58,FALSE,Athens Running,12.01,"1,446",1:36:12,162,187,4.6,147,196,8:01,6:00,678,635,1.37,0,0,0,0,0,1:36:12,0:00,0,0:00,No,00:02.4,13,0,Distance,Long Distance,"64,sunny","College Station, Campus",Nike React Miler
+Monday,11/9/2020,Running,11/9/2020 17:33,FALSE,Athens Running,4,514,0:33:01,158,173,3.3,144,162,8:15,6:06,296,166,1.36,0,0,0,0,0,33:01:00,0:00,0,0:00,No,00:00.9,5,0,Recovery,Short Distance,"72,sunny","Whitehall Village, Barnett Shoals",Nike React Miler
+Tuesday,11/10/2020,Running,11/10/2020 16:11,FALSE,Athens Running,5,598,0:36:07,169,182,3.9,151,173,7:13,6:00,300,259,1.47,0,0,0,0,0,36:07:00,0:00,0,0:00,No,00:01.3,6,0,Steady,Mid Distance,"72,cloudy","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Wednesday,11/11/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thursday,11/12/2020,Running,11/12/2020 17:31,FALSE,Athens Running,4.55,547,0:33:47,166,184,3.8,148,192,7:26,4:56,287,286,1.47,0,0,0,0,0,33:47:00,0:00,0,0:00,No,04:12.1,5,0,Steady,Short Distance,"73,cloudy",Campus,New Balance Fuel Cell Propel
+Friday,11/13/2020,Running,11/13/2020 17:12,FALSE,Athens Running,5.01,621,0:40:52,157,170,3.4,146,164,8:10,6:39,341,267,1.35,0,0,0,0,0,40:52:00,0:00,0,0:00,No,00:01.6,6,0,Recovery,Mid Distance,"73,sunny","Snapfinger, Barnett Shoals",Nike React Miler
+Saturday,11/14/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,11/15/2020,Running,11/15/2020 8:33,FALSE,Athens Running,13.44,"1,810",2:03:00,160,173,4.5,152,170,9:09,7:04,885,887,1.16,0,0,0,0,0,2:03:00,0:00,0,0:00,No,03:56.2,14,0,Distance,Long Distance,"57,dense fog",Sandy Creek Park,New Balance Fuel Cell Propel
+Monday,11/16/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,11/17/2020,Running,11/17/2020 17:04,FALSE,Athens Running,5.04,560,0:34:02,167,182,3.7,155,176,6:45,5:16,291,195,1.54,0,0,0,0,0,34:02:00,0:00,0,0:00,No,00:14.1,6,0,Tempo,Mid Distance,"63,clear","Snapfinger, Barnett Shoals",Nike React Miler
+Wednesday,11/18/2020,Running,11/18/2020 17:50,FALSE,Athens Running,4.01,517,0:33:08,157,170,3.3,145,164,8:16,6:22,200,103,1.34,0,0,0,0,0,33:08:00,0:00,0,0:00,No,00:03.0,5,0,Recovery,Short Distance,"52,clear","Whitehall Village, Barnett Shoals",Nike React Miler
+Thursday,11/19/2020,Running,11/19/2020 17:39,FALSE,Athens Running,5.01,571,0:33:35,171,182,3.8,157,176,6:42,5:34,282,240,1.53,0,0,0,0,0,33:35:00,0:00,0,0:00,No,00:02.3,6,0,Tempo,Mid Distance,"50,clear","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Friday,11/20/2020,Running,11/20/2020 16:41,FALSE,Athens Running,4,516,0:31:58,161,174,3.4,146,164,7:59,7:07,271,170,1.38,0,0,0,0,0,31:58:00,0:00,0,0:00,No,00:01.4,5,0,,,,,
+Saturday,11/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,11/22/2020,Running,11/22/2020 9:22,FALSE,Athens Running,13.04,"1,863",1:56:03,167,179,5,148,171,8:54,6:58,857,846,1.22,0,0,0,0,0,1:56:03,0:00,0,0:00,No,00:19.7,14,0,Trail Run,Long Distance,"59,sunny",Sandy Creek Park,New Balance Fuel Cell Propel
+Monday,11/23/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,11/24/2020,Running,11/24/2020 6:30,FALSE,Athens Running,2.46,309,0:19:42,157,170,2.8,149,164,8:01,7:06,181,102,1.35,0,0,0,0,0,19:42,0:00,0,0:00,No,03:31.1,3,0,Recovery,Short Distance,"39,sunny",Campus,New Balance Fuel Cell Propel
+Tuesday,11/24/2020,Running,11/24/2020 6:53,FALSE,Athens Running,3.83,401,0:27:01,157,187,3,155,194,7:03,4:15,68,72,1.44,0,0,0,0,0,27:01:00,0:00,0,0:00,No,00:07.8,21,0,Track,Short Distance,"39,clear",Track,New Balance Fuel Cell Propel
+Tuesday,11/24/2020,Running,11/24/2020 7:27,FALSE,Athens Running,0.7,79,0:06:00,137,151,1,146,158,8:33,6:45,--,89,1.29,0,0,0,0,0,05:59.5,0:00,0,0:00,No,05:59.5,1,0,Recovery,Short Distance,"39,clear",Campus,New Balance Fuel Cell Propel
+Wednesday,11/25/2020,Running,11/25/2020 7:27,FALSE,Athens Running,3.54,456,0:29:56,153,165,3,149,160,8:28,7:37,146,130,1.27,0,0,0,0,0,29:56:00,0:00,0,0:00,No,04:32.8,4,0,Recovery,Short Distance,"50,cloudy",Barnett Shoals,Nike React Miler
+Thursday,11/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,11/27/2020,Running,11/27/2020 7:37,FALSE,Athens Running,6.5,816,0:48:35,168,181,4.3,152,178,7:28,6:14,473,383,1.42,0,0,0,0,0,48:35:00,0:00,0,0:00,No,03:38.8,7,0,Steady,Mid Distance,"45,clear","Snapfinger, Old Lexington",Nike React Miler
+Saturday,11/28/2020,Running,11/28/2020 9:05,FALSE,Athens Running,3.23,391,0:23:12,168,178,3.3,153,166,7:11,6:11,119,23,1.47,0,0,0,0,0,23:12,0:00,0,0:00,No,01:46.1,4,0,Steady,Short Distance,"55,sunny",Barnett Shoals,Nike React Miler
+Sunday,11/29/2020,Running,11/29/2020 7:18,FALSE,Athens Running,11,"1,349",1:33:52,155,172,3.9,145,167,8:32,5:16,708,667,1.3,0,0,0,0,0,1:33:52,0:00,0,0:00,No,00:01.6,12,0,Distance,Long Distance,"52,cloudy","College Station, Campus",Nike React Miler
+Monday,11/30/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,12/1/2020,Running,12/1/2020 6:23,FALSE,Athens Running,6.46,721,0:48:32,157,180,3.4,153,186,7:31,5:05,262,227,1.39,0,0,0,0,0,48:32:00,0:00,0,0:00,No,00:57.7,12,0,Track,Mid Distance,"34,cloudy","Track, Campus",New Balance Fuel Cell Propel
+Wednesday,12/2/2020,Running,12/2/2020 6:32,FALSE,Athens Running,3.46,419,0:30:05,143,169,2.7,146,160,8:42,7:00,121,95,1.27,0,0,0,0,0,30:05:00,0:00,0,0:00,No,03:29.4,4,0,Recovery,Short Distance,"27,clear",Barnett Shoals,Nike React Miler
+Thursday,12/3/2020,Running,12/3/2020 6:59,FALSE,Athens Running,6.22,737,0:43:19,168,182,4,156,169,6:58,5:24,415,395,1.48,0,0,0,0,0,43:19:00,0:00,0,0:00,No,01:20.0,7,0,Tempo,Mid Distance,"28,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,12/4/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Recovery,Short Distance,"68,clear","Barnett Shoals, Old Lexington",Nike React Miler
+Saturday,12/5/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,12/6/2020,Running,12/6/2020 7:52,FALSE,Athens Running,12.01,"1,483",1:42:15,159,183,4.3,146,196,8:31,5:06,674,711,1.29,0,0,0,0,0,1:42:15,0:00,0,0:00,No,00:01.6,13,0,Distance,Long Distance,"36,clear","College Station, Campus",Nike React Miler
+Monday,12/7/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,12/8/2020,Running,12/8/2020 6:34,FALSE,Athens Running,5.63,622,0:42:18,155,181,3.2,154,188,7:31,5:00,113,114,1.37,0,0,0,0,0,42:18:00,0:00,0,0:00,No,00:08.4,15,0,Track,Mid Distance,"30,clear",Track,New Balance Fuel Cell Propel
+Wednesday,12/9/2020,Running,12/9/2020 6:22,FALSE,Athens Running,6.2,837,0:54:03,155,174,3.5,145,158,8:43,7:23,402,361,1.28,0,0,0,0,0,54:03:00,0:00,0,0:00,No,01:37.9,7,0,Recovery,Mid Distance,"37,clear","Barnett Shoals, Ashton Place, Old Lexington",Nike React Miler
+Thursday,12/10/2020,Running,12/10/2020 6:34,FALSE,Athens Running,6.58,838,0:46:45,176,184,4.7,153,171,7:06,6:19,343,281,1.48,0,0,0,0,0,46:45:00,0:00,0,0:00,No,03:55.6,7,0,Steady,Mid Distance,"45,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,12/11/2020,Running,12/11/2020 6:59,FALSE,Athens Running,3.51,502,0:33:47,152,164,3,142,152,9:38,7:19,135,108,1.17,0,0,0,0,0,33:47:00,0:00,0,0:00,No,04:45.6,4,0,Recovery,Short Distance,"39,clear",Barnett Shoals,Nike React Miler
+Saturday,12/12/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,12/13/2020,Running,12/13/2020 7:24,FALSE,Athens Running,12.01,"1,389",1:47:52,153,173,3.8,141,189,8:59,6:43,671,645,1.27,0,0,0,0,0,1:47:52,0:00,0,0:00,No,00:02.3,13,0,Distance,Long Distance,"55,cloudy","College Station, Campus",Nike React Miler
+Monday,12/14/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,12/15/2020,Running,12/15/2020 6:22,FALSE,Athens Running,7.34,893,0:54:51,165,180,4,152,182,7:28,5:24,415,409,1.42,0,0,0,0,0,54:51:00,0:00,0,0:00,No,02:17.6,8,0,Tempo,Mid Distance,"37,clear",Campus,New Balance Fuel Cell Propel
+Wednesday,12/16/2020,Running,12/16/2020 6:44,FALSE,Athens Running,3.6,459,0:29:28,156,168,3.1,147,157,8:11,7:19,114,102,1.34,0,0,0,0,0,29:28:00,0:00,0,0:00,No,04:55.7,4,0,Recovery,Short Distance,"39,cloudy",Barnett Shoals,Nike React Miler
+Thursday,12/17/2020,Running,12/17/2020 6:30,FALSE,Athens Running,6.23,767,0:44:46,172,183,4.3,151,162,7:11,6:17,383,367,1.48,0,0,0,0,0,44:46:00,0:00,0,0:00,No,01:28.8,7,0,Steady,Mid Distance,"37,clear","Barnett Shoals, Ashton Place, Old Lexington",New Balance Fuel Cell Propel
+Friday,12/18/2020,Running,12/18/2020 7:15,FALSE,Athens Running,5,607,0:37:38,162,179,3.6,152,164,7:31,5:46,247,213,1.41,0,0,0,0,0,37:38:00,0:00,0,0:00,No,07:02.9,5,0,Recovery,Mid Distance,"30,clear","Snapfinger, Barnett Shoals",Nike React Miler
+Saturday,12/19/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,12/20/2020,Running,12/20/2020 7:57,FALSE,Athens Running,14.01,"1,672",1:56:57,157,177,4.2,146,173,8:21,6:19,742,758,1.32,0,0,0,0,0,1:56:57,0:00,0,0:00,No,00:01.6,15,0,Distance,Long Distance,43,"College Station, Campus",Nike React Miler
+Monday,12/21/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuesday,12/22/2020,Running,12/22/2020 7:16,FALSE,Athens Running,4,523,0:32:18,163,174,3.4,148,164,8:04,6:43,210,109,1.35,0,0,0,0,0,32:18:00,0:00,0,0:00,No,00:01.5,5,0,Recovery,Short Distance,43,"Whitehall Village, Barnett Shoals",Nike React Miler
+Wednesday,12/23/2020,Running,12/23/2020 6:45,FALSE,Athens Running,6.01,707,0:43:23,165,178,3.9,154,167,7:13,5:57,469,454,1.44,0,0,0,0,0,43:23:00,0:00,0,0:00,No,00:01.8,7,0,Steady,Mid Distance,"36,clear",Campus,New Balance Fuel Cell Propel
+Thursday,12/24/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Friday,12/25/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Saturday,12/26/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sunday,12/27/2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monday,12/28/2020,Running,12/28/2020 9:25,FALSE,Athens Running,4.01,512,0:29:14,175,188,4,148,188,7:18,6:23,236,118,1.49,0,0,0,0,0,29:14:00,0:00,0,0:00,No,00:02.5,5,0,Steady,Short Distance,"48,clear","Whitehall, Barnett Shoals",New Balance Fuel Cell Propel
+Tuesday,12/29/2020,Running,12/29/2020 9:13,FALSE,Athens Running,4.36,529,0:32:15,165,180,3.6,151,169,7:24,6:11,230,184,1.44,0,0,0,0,0,32:15:00,0:00,0,0:00,No,02:42.0,5,0,Steady,Short Distance,"45,clear","Snapfinger, Barnett Shoals",New Balance Fuel Cell Propel
+Wednesday,12/30/2020,Running,12/30/2020 9:53,FALSE,Athens Running,3.01,366,0:23:34,156,178,3.1,150,162,7:50,7:07,18,29,1.37,0,0,0,0,0,23:34,0:00,0,0:00,No,00:04.0,4,0,Recovery,Short Distance,"46,cloudy",North Oconee Greenway,Nike React Miler
+Thursday,12/31/2020,Running,12/31/2020 7:14,FALSE,Athens Running,7.01,876,0:52:50,168,178,4.3,151,173,7:32,5:59,445,348,1.42,0,0,0,0,0,52:50:00,0:00,0,0:00,No,00:01.6,8,0,Recovery,Short Distance,"46,cloudy",North Oconee Greenway,Nike React Miler
