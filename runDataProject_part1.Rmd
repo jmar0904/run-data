@@ -1,0 +1,94 @@
+---
+title: "Run Data: 2013-Present"
+author: "Joe Martin"
+date: "9/12/2021"
+output: html_document
+---
+```{r}
+# Briefly describe what the data is, how it was collected, where you will get (or got) it from. How many observations do you have, what was measured? Anything else important to report about the data?
+```
+
+The data I intend to use for my project is my personal running data. I started distance running in 2012 just before I got my very first smartphone. When I got my smartphone I started to track all of my runs in the Nike Run Club app. Starting in 2013, this was my primary way of tracking my runs. Toward the end of 2014, I started trying various other apps and mostly got the same data out of them. Apps included MapMyRun and Strava, and possibly a few more. Much of my data from 2015 and 2016 is missing and I’m unsure how to, or if I could ever, recover it. In 2017 I mostly used MapMyRun. In 2018, I moved back to  Nike Running and had a full month in 2020 when I used Strava exclusively. In April of 2020, I bought my first smartwatch, which I’ve been using to track all of my training (running, swimming, and cycling).
+
+I estimate that I have more than 1,000 observations for running. In 2020 when we went into lockdown for COVID-19, I began moving all of my data from my various apps and accounts into a Google sheet. I mainly did this manually. I enter my data into another spreadsheet manually for my most recent data which I primarily use for my training journal. In this journal, I record imprecise numbers – average pace, mile/lap splits, the shoes I wore, weather, time of day/date, total distance, location of my run, distance type (short, medium, or long), and run type (recovery, easy, “steasy,” steady, tempo, track, distance). Along with this, I’ll also take notes about my run, like how I feel, thoughts about how my training is going, whether I’m feeling any pain or note any injuries, etc. With my Garmin watch, I have a Garmin Connect account, which automatically tracks data for me and saves to the cloud. When I export data related to my activities (running, swimming, and cycling all come together), Garmin gives me a .csv file with 36 variables, although some are empty or have 0 for all values. Outside of this data, I can also export data related to sleep (how long I slept total, length of each sleep stage, respiration), heartrate, steps, stress, and more. I’m interested in exploring this data, but intend to narrow my scope only to my running data for the purpose of this project. 
+
+```{r}
+#At this stage you are not required to already have and show the data, but if you do, even better. Then add a few lines of code which load the data and using some of the commands you learned about, provide summary descriptions of the data.
+```
+
+## Historical Data 2013 - 2018
+```{r}
+# Load Packages
+pacman::p_load(pacman, rio, tidyverse, lubridate)
+
+# Load Run Data ############################################
+# When adding years 2013-2019, change df1 to df20 and make full dataframe out of all years
+
+# 2013 - 2018 Run Data
+
+df1318 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Historical%20Run%20Data%202013%20-%202018%20-%20total2013-2018.csv"))
+
+# filter out dates without data
+df1318 <- df1318 %>% filter(total_time != '')
+
+summary(df1318)
+
+rmarkdown::paged_table(df1318)
+```
+
+## Run Data - 2019
+```{r}
+# 2019 run data
+df19 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2019.csv"))
+df19$Distance <- as.character(df19$Distance)
+df19$`Elev Loss` <- as.character(df19$`Elev Loss`)
+
+summary(df19)
+
+rmarkdown::paged_table(df19)
+```
+
+## Run Data - 2020
+```{r}
+# 2020 run data
+df20 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2020.csv"))
+df20$Distance <- as.character(df20$Distance)
+df20$`Elev Loss` <- as.character(df20$`Elev Loss`)
+
+summary(df20)
+
+rmarkdown::paged_table(df20)
+```
+
+## Run Data - 2021
+```{r}
+# 2021 run data
+df21 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2021.csv"))
+df21$Distance <- as.character(df21$Distance)
+df21$`Elev Loss` <- as.character(df21$`Elev Loss`)
+
+summary(df21)
+
+rmarkdown::paged_table(df21)
+```
+
+## Data Combined 2019 - 2021
+```{r}
+# combined data for 2019-present
+df1 <- bind_rows(df19,df20,df21)
+
+summary(df1)
+
+rmarkdown::paged_table(df1)
+```
+
+```{r}
+# Explain the question you want to answer using the data. What will be your outcome(s) of interest (if any)? What (if any) specific predictors will you focus on? What relations/patterns are you looking for in the data?
+```
+
+Through this project, I'm interested in modeling performance. I would like to see if there are any significant relationships between the frequency of my training and performance, volume (number of miles run per week) and performance, and intensity and performance. I would need to explore my own data more and continue reviewing papers like <a href="https://www.nature.com/articles/s41467-020-18737-6">Human running performance from real-world big data" by Thorsten Emig & Jussi Peltonen</a>. I would think specific predictors would include average pace, average/max heartrate during workouts, and resting heartrate. 
+
+```{r}
+#As much as you know, suggest how you will analyze it. At this stage in the course, we haven’t covered analysis approaches yet, so you can keep things vague and non-technical here. 
+```
+
