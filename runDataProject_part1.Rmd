@@ -19,14 +19,14 @@ I estimate that I have more than 1,000 observations for running. In 2020 when we
 ## Historical Data 2013 - 2018
 ```{r}
 # Load Packages
-pacman::p_load(pacman, rio, tidyverse, lubridate)
+pacman::p_load(pacman, rio, tidyverse, lubridate, here)
 
 # Load Run Data ############################################
 # When adding years 2013-2019, change df1 to df20 and make full dataframe out of all years
 
 # 2013 - 2018 Run Data
-
-df1318 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Historical%20Run%20Data%202013%20-%202018%20-%20total2013-2018.csv"))
+data13 <- here::here("data", "run2013-18.csv")
+df1318 <- read_csv(data13)
 
 # filter out dates without data
 df1318 <- df1318 %>% filter(total_time != '')
@@ -39,7 +39,9 @@ rmarkdown::paged_table(df1318)
 ## Run Data - 2019
 ```{r}
 # 2019 run data
-df19 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2019.csv"))
+data19 <- here::here("data", "run2019.csv")
+
+df19 <- read_csv(data19)
 df19$Distance <- as.character(df19$Distance)
 df19$`Elev Loss` <- as.character(df19$`Elev Loss`)
 
@@ -51,7 +53,9 @@ rmarkdown::paged_table(df19)
 ## Run Data - 2020
 ```{r}
 # 2020 run data
-df20 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2020.csv"))
+data20 <- here::here("data", "run2020.csv")
+
+df20 <- read_csv(data20)
 df20$Distance <- as.character(df20$Distance)
 df20$`Elev Loss` <- as.character(df20$`Elev Loss`)
 
@@ -63,7 +67,9 @@ rmarkdown::paged_table(df20)
 ## Run Data - 2021
 ```{r}
 # 2021 run data
-df21 <- read_csv(url("https://raw.githubusercontent.com/jmar0904/run-data/546da299c362ab6435c56cdd7a9bc5f846a02c52/Health%20Data%20Reformat%202020%20-%20run2021.csv"))
+data21 <- here::here("data", "run2021.csv")
+
+df21 <- read_csv(data21)
 df21$Distance <- as.character(df21$Distance)
 df21$`Elev Loss` <- as.character(df21$`Elev Loss`)
 
